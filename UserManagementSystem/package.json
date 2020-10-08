@@ -1,0 +1,15 @@
+{
+    "name": "usermanagementsystem",
+    "version": "1.0.0",
+    "description": "",
+    "main": "sever.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "Daniel, Cagri, Mohammad",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "hbs": "^4.1.1"
+    }
+}
